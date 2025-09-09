@@ -4,7 +4,7 @@ int main() {
     char Torre[] = "Torre"; 
     char Bispo[] = "Bispo";
     char rainha[] = "Rainha";
-    char Cavalo[] = "Cavalo"; // Adicionei o Cavalo
+    char Cavalo[] = "Cavalo";
     int contagem = 1;
 
     // --- Simulação do Movimento da Torre ---
